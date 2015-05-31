@@ -1,6 +1,6 @@
 # Kodi Media Center language file
-# Addon Name: Maps Browser - Show on map
-# Addon id: context.maps.browser.map
+# Addon Name: Maps Browser - Search for concerts
+# Addon id: context.maps.browser.concerts
 msgid ""
 msgstr ""
 
